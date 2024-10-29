@@ -3,7 +3,7 @@
 Hey there, I'm Nimmani Rishik! 🚀
 Aspiring AI Specialist | Machine Learning Enthusiast | Data Analyst
 
-Welcome to my digital world, where I bring technology to life with code and creativity. I’m deeply passionate about artificial intelligence, machine learning, and data analytics, driven to solve real-world problems through innovative solutions. Currently, I focus on expanding my knowledge and skills in machine learning and deep learning, while continuously exploring the latest advancements in AI.
+Welcome to my digital world, where I blend technology with creativity to develop innovative solutions. I am passionate about artificial intelligence, machine learning, and data analytics, and I strive to tackle real-world challenges through data-driven approaches. My journey is focused on mastering machine learning and deep learning techniques while keeping up with the latest advancements in AI.
 
 My Journey Through Exciting Technologies
 Programming Languages
